@@ -1,0 +1,17 @@
+# PsychoPy participant/test data
+experiment/data/*
+!experiment/data/.gitkeep
+
+# PsychoPy generated scripts
+*_lastrun.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
